@@ -11,7 +11,7 @@ High school student from Memphis, Tennessee who plans on studying cybersecurity 
 Rust, C#, Java, Python, PHP, GDScript, HTML, CSS, JavaScript, TypeScript, Lua, POSIX shell
 
 ### Applications and Frameworks
-Visual Studio Code, IntelliJ IDEA, Android Studio, Flatpak, GTK, Godot Engine, Unity, ASP.NET, Rocket, Node.js, React, MariaDB, MySQL, Cargo, Maven, Gradle, Git, GitHub, QEMU
+Visual Studio Code, IntelliJ IDEA, Android Studio, Flatpak, GTK, Godot Engine, Unity, ASP.NET, Rocket, Node.js, React, Next.js, MariaDB, MySQL, Cargo, Maven, Gradle, Git, GitHub, QEMU
 
 ### Operating Systems
 Experienced with Microsoft Windows, Linux, and OpenBSD.
@@ -25,8 +25,8 @@ Experienced with Microsoft Windows, Linux, and OpenBSD.
 
 ### [Pizza Panic](https://garhow.itch.io/pizza-panic) (Godot/OpenXR)
 * *Fall 2023*
-* Virtual-reality game; Recreation of the "Pizzatron 3000" minigame from *Club Penguin*, designed for standalone headsets.
+* Virtual-reality game; Recreation of the "Pizzatron 3000" minigame from Club Penguin, designed for standalone headsets.
 
 ### [Ragdolls](https://github.com/garhow/ragdolls) (Godot)
 * *Fall 2023*
-* Simple clone of popular physics game *People Playground*.
+* Simple clone of popular physics game People Playground.
