@@ -23,7 +23,7 @@ Experienced with Microsoft Windows, Linux, and OpenBSD.
 * Rust crate that provides safe and convenient Rust bindings for the Steam Web API.
 * Role: Lead Developer - Designed and implemented core functionality, collaborated with contributors on developing, testing, and debugging the project.
 
-### [Pizza Panic](https://garhow.itch.io/pizza-panic) (Godot/OpenXR)
+### [Pizza Panic](https://github.com/garhow/pizza-panic) (Godot/OpenXR)
 * *Fall 2023*
 * Virtual-reality game; Recreation of the "Pizzatron 3000" minigame from Club Penguin, designed for standalone headsets.
 
