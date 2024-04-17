@@ -26,7 +26,3 @@ Experienced with Microsoft Windows, Linux, and OpenBSD.
 ### [Pizza Panic](https://github.com/garhow/pizza-panic) (Godot/OpenXR)
 * *Fall 2023*
 * Virtual-reality game; Recreation of the "Pizzatron 3000" minigame from Club Penguin, designed for standalone headsets.
-
-### [Ragdolls](https://github.com/garhow/ragdolls) (Godot)
-* *Fall 2023*
-* Simple clone of popular physics game People Playground.
