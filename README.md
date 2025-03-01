@@ -24,5 +24,5 @@ Experienced with Microsoft Windows, Linux, and OpenBSD.
 * Role: Lead Developer - Designed and implemented core functionality, collaborated with contributors on developing, testing, and debugging the project.
 
 ### [Pizza Panic](https://github.com/garhow/pizza-panic) (Godot/OpenXR)
-* *Fall 2023*
+* *Fall 2023-current*
 * Virtual-reality game; Recreation of the "Pizzatron 3000" minigame from Club Penguin, designed for standalone headsets.
