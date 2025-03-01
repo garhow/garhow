@@ -11,7 +11,7 @@ High school student from Memphis, Tennessee who plans on studying cybersecurity 
 Rust, C#, Java, Python, PHP, GDScript, HTML, CSS, JavaScript, Lua, POSIX shell
 
 ### Applications and Frameworks
-Visual Studio Code, IntelliJ IDEA, Flatpak, GTK, Godot Engine, Unity, ASP.NET, Node.js, MariaDB, MySQL, Cargo, Git, GitHub, QEMU
+Flatpak, Docker, GTK, Godot Engine, Unity, Node.js, MariaDB, MySQL, Cargo, Git, GitHub, QEMU
 
 ### Operating Systems
 Experienced with Microsoft Windows, Linux, and OpenBSD.
